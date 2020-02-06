@@ -1,3 +1,5 @@
+A simple web app that I have created to refresh my React knowledge. It uses React 16.12 and Bootstrap 4.4.1.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
